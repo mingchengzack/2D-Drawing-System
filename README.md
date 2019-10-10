@@ -1,5 +1,5 @@
-Name: Ming Cheng, ID: 913137594, Email: mgcheng@ucdavis.edu
-
+# 2D Drawing System
+Includes DDA and Bresenham line drawing algorithms, the algorithm for rasterizing polygons, the algorithm for two-dimensional clipping, and the two-dimensional transformations for scaling a polygon with respect to its centroid,translating a polygon by a translation vector and rotating a polygon about its centroid by an arbitrary angle.
 To compile my project, just use make command and the makefile to compile. The name of my executable is called Project1.
 
 To run my program, just type in ./Project1. I have a input file called "test", which contains three different polygons, 
